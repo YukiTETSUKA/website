@@ -23,7 +23,7 @@ inc:
   
   # Sharing settings
   sharing:
-    twitter:    true
+    twitter:    false
     facebook:   true
     gplus:      false
     hn:         false
@@ -31,7 +31,7 @@ inc:
   
  # Analytics     
   analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
+    google: true # Add tracking code in _includes/_google-analytics.html
       
       
   # Google Fonts

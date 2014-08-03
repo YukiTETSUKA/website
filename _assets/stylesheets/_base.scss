@@ -88,6 +88,16 @@ a {
     }
 }
 
+.avatar {
+  float:left;
+  border-radius:62px;
+  height:50px;
+  width:50px;
+  margin-top:-10px; // TODO
+  margin-right:30px;
+  margin-bottom:0px;
+}
+
 .blog-cover {
     @extend .article-cover;
     height: 400px;
