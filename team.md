@@ -26,8 +26,12 @@ title: メンバー
 ## <img src="https://graph.facebook.com/yoshiki.suzuki.5/picture" class="avatar" />  取締役 COO 鈴木 吉輝
 宮城県仙台市出身
 
-## <img src="https://graph.facebook.com/FATE7372/picture" class="avatar" /> エンジニア 手塚 祐樹
-栃木県出身
+## <img src="https://graph.facebook.com/te2ka/picture" class="avatar" /> エンジニア 手塚 祐樹
+1994年生まれ．栃木県宇都宮市出身．岩手県立大学ソフトウェア情報学部3年．夢はタイピングで世界を救うこと．高校の頃にプログラミング言語「COBOL」と出会う．観光推薦関連を研究する傍ら，Titaniumでスマートフォンアプリの開発に従事．
+
+花火鑑賞士 取得予定
+
+[![Facebook](/images/facebook.png)](https://www.facebook.com/te2ka)
 
 ## <img src="https://graph.facebook.com/ryo.alter/picture" class="avatar" /> エンジニア 甲田 亮太
 青森県出身
